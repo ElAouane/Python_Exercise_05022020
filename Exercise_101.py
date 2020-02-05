@@ -1,7 +1,3 @@
-# List basics :D
-
-
-#8 - Re assign an item and print all of the list again
 
 #1 - Define a bucket list with 10 items
 bucket_list = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
